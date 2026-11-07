@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='scp://sprinthost//home/a0791978/domains/vizitka.garmonia.gladkosti.ru/public_html/'
+let g:netrw_dirhist_1='scp://sprinthost//home/a0791978/domains/vizitka.garmonia.gladkosti.ru/'
+let g:netrw_dirhist_0='scp://sprinthost//home/a0791978/domains/'
+let g:netrw_dirhist_9='scp://sprinthost//home/a0791978/'
+let g:netrw_dirhist_8='scp://sprinthost//home/a0791978/domains/vizitka.garmonia.gladkosti.ru/public_html/'
+let g:netrw_dirhist_7='scp://sprinthost//home/a0791978/domains/vizitka.garmonia.gladkosti.ru/'
+let g:netrw_dirhist_6='scp://sprinthost//home/a0791978/domains/'
+let g:netrw_dirhist_5='scp://sprinthost//home/a0791978/'
+let g:netrw_dirhist_4='scp://sprinthost//home/'
+let g:netrw_dirhist_3='scp://sprinthost//'
